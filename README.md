@@ -19,6 +19,10 @@ This Flask-based web application allows users to upload a photograph of a skin l
 
 - **Dropbox Integration**: Large datasets and images are stored and retrieved using the Dropbox API, ensuring efficient image handling.
 
+<img width="1708" alt="Screenshot 2024-10-05 at 00 41 41" src="https://github.com/user-attachments/assets/35f074c4-fcf9-428a-acab-931748899955">
+<img width="1698" alt="Screenshot 2024-10-05 at 00 41 19" src="https://github.com/user-attachments/assets/00b2eee9-8efb-4b3f-92b7-3b55bac1f828">
+
+
 ### Prerequisites
 
 - Python 3.x
