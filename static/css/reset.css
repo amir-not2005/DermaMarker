@@ -1,0 +1,183 @@
+    html, body, div, span, object, iframe,
+    h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+    abbr, address, cite, code,
+    del, dfn, em, img, ins, kbd, q, samp,
+    small, strong, sub, sup, var,
+    b, i,
+    dl, dt, dd, ol, ul, li,
+    fieldset, form, label, legend,
+    table, caption, tbody, tfoot, thead, tr, th, td,
+    article, aside, canvas, details, figcaption, figure, 
+    footer, header, hgroup, menu, nav, section, summary,
+    time, mark, audio, video {
+        margin:0;
+        padding:0;
+        border:0;
+        outline:0;
+        font-size:100%;
+        vertical-align:baseline;
+        background:transparent;
+    }
+
+    body {
+        line-height:1;
+    }
+
+    header nav
+    {
+        margin-top: 15px;
+    }
+
+    .test {
+        position: absolute;
+        right: 0px;
+        top: 0px;
+        z-index: 999;
+    }
+
+    .test nav ul li .menu {
+            color: black;
+        }
+
+    .cd-slider-wrapper {
+
+    }
+
+    .menu_head
+    {
+        position: relative;
+
+    }
+
+    .slide
+    {
+        position: absolute;
+        
+    }
+
+    .blank_space
+    {
+        height: 500px;
+    }
+
+    .temp
+    {
+        font-family: "raleway-regular";
+        text-align: center;
+        padding-top: 100px;
+    }
+
+    .logo_1
+    {
+        max-width: 5%;
+        left:3px;
+        top: 3px;
+        position: absolute;
+        width: 100px!important;
+    }
+
+    .logo_text
+    {
+        color: white;
+        margin-left: 70px;
+        font-family: "raleway-regular";
+        position: absolute;
+        margin-top: 5px;
+    }
+
+    .menu
+    {
+        margin-top: -40px;
+        margin-right: 10px;
+        color: white;
+    }
+
+    .headline
+    {
+        color: black;
+    }
+
+    .slogan
+    {
+        text-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+        line-height: 1.2;
+        margin: 0 auto 14px;
+        color: #ffffff;
+        width: 90%;
+        max-width: 320px;
+        background-color: rgba(0, 0, 0, 0.6);
+        font-weight: 200 !important;
+    }
+
+    img{
+        max-width: 100%;
+    }
+
+    article,aside,details,figcaption,figure,
+    footer,header,hgroup,menu,nav,section { 
+        display:block;
+    }
+
+    nav ul {
+        list-style:none;
+    }
+
+    blockquote, q {
+        quotes:none;
+    }
+
+    blockquote:before, blockquote:after,
+    q:before, q:after {
+        content:'';
+        content:none;
+    }
+
+    a {
+        margin-top: -40px;
+        margin:0;
+        padding:0;
+        font-size:100%;
+        vertical-align:baseline;
+        background:transparent;
+        color: #ffffff;
+    }
+
+    ins {
+        background-color:#ff9;
+        color:#000;
+        text-decoration:none;
+    }
+
+    mark {
+        background-color:#ff9;
+        color:#000; 
+        font-style:italic;
+        font-weight:bold;
+    }
+
+    del {
+        text-decoration: line-through;
+    }
+
+    abbr[title], dfn[title] {
+        border-bottom:1px dotted;
+        cursor:help;
+    }
+
+    table {
+        border-collapse:collapse;
+        border-spacing:0;
+    }
+
+    hr {
+        display:block;
+        height:1px;
+        border:0;   
+        border-top:1px solid #cccccc;
+        margin:1em 0;
+        padding:0;
+    }
+
+    input, select {
+        vertical-align:middle;
+    }
