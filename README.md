@@ -27,7 +27,7 @@ This Flask-based web application allows users to upload a photograph of a skin l
 
 - Python 3.x
 - Flask
-- Dropbox API SDK
+- Dropbox API
 - Machine learning libraries (TensorFlow/PyTorch)
 - Other dependencies listed in `requirements.txt`
 - VGG16 pretrained model
